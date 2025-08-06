@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title> Your Name | Portfolio </title>
+  <title>Gania Kaur Sahota | Portfolio </title>
   <link rel="stylesheet" href="style.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,7 +21,7 @@
 </script>
 
   <header>
-    <marquee><h1> 🌸 Your Name🌙</h1></marquee>
+    <marquee><h1> 🌸 Gania Kaur Sahota 🌙</h1></marquee>
     <nav>
       <a href="#about">About</a>
       <a href="#skills">Skills</a>
@@ -31,12 +31,12 @@
   </header>
 
   <section id="Welcome">
-    <p> Welcome to my personal webpage! I'm your name and info. Here, you can find information about my skills, projects, and how to contact me.</p> </div>
+    <p> Welcome to my personal webpage! I'm Gania Kaur Sahota, a Computer Science student with a passion for AI and software development. Here, you can find information about my skills, projects, and how to contact me.</p> </div>
   </section>
   <p>-----------------------------------------------------------------------------------------------</p>
   <section id="about">
     <h1>About Me</h1>
-    <p> I'm an 18 y/o student pursuing a Bachelor's degree in Computer Applications with a deep interest in Artificial Intelligence and web development. I believe that technology should be meaningful, accessible, and human-centered. I am building my portfolio with self-driven projects, contributing to social impact initiatives, and preparing to step into roles that allow me to learn, grow, and contribute as a developer. </p>
+    <p> I'm a 18 y/o student pursuing a Bachelor's degree in Computer Applications with a deep interest in Artificial Intelligence and web development. I believe that technology should be meaningful, accessible, and human-centered. I am building my portfolio with self-driven projects, contributing to social impact initiatives, and preparing to step into roles that allow me to learn, grow, and contribute as a developer. </p>
   </section>
  <p>-----------------------------------------------------------------------------------------------</p>
 
@@ -84,15 +84,15 @@
   <h1>Contact Me :</h1>
   <div class="contact-flex">
     <div>
-      <p>GitHub: <a href=""> @xyz</a></p>
-      <p>LinkedIn: <a href="/">@xyz</a></p>
+      <p>GitHub: <a href="https://github.com/ganiacr"> ganiacr</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/gania-sahota-897bba328/">@Gania Sahota</a></p>
     </div>
     <img class="contact-img" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmR4dmJlcXBteDJhdTg1Z3BpNzU1Z2J2amM5NDIwNnA1eTBzd2I4ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eS3sQ4DtpzVAykaGtE/giphy.gif" height="120" width="120" alt="cat gif">
   </div>
 </section>
 
   <footer>
-  <p>© 2025 your name. All rights reserved.</p>
+  <p>© 2025 Gania Kaur Sahota. All rights reserved.</p>
 </footer>
 
 <lottie-player 
@@ -231,3 +231,4 @@
   
 </body>
 </html>
+
